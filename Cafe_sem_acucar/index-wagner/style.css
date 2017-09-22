@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Montserrat);
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: #FFF;
+}
+body {
+    background-image: url('background.jpg');
+
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;  
+    text-align: right;
+}
+#tblList thead{
+    background: gray;
+    color: #FFF;
+}
